@@ -1,2 +1,1 @@
-# Master Prompt
-This file holds the universal AGI wealth autopilot task prompt.
+(Place the final Master Prompt here for copy/paste before every agent run)

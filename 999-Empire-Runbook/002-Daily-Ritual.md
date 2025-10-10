@@ -1,2 +1,5 @@
-# Daily Ritual
-Checklist of what must be done every day.
+- Start minikube (if needed), eval docker-env
+- Paste Master Prompt + one concrete task
+- Run Quickstart, confirm report/logs created
+- Monetization hook link present
+- Commit: ~/update_github.sh

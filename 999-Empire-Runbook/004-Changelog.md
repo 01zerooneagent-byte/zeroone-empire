@@ -1,2 +1,1 @@
-# Changelog
-Track all updates and releases.
+- v0.0.1 bootstrap skeleton created

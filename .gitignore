@@ -1,0 +1,16 @@
+# secrets
+.env
+**/*.env
+**/*.env.local
+
+# generated
+logs/
+**/logs/*
+**/reports/*
+payments_qr/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+
+# system
+.DS_Store
