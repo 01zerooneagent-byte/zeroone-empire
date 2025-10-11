@@ -1,7 +1,11 @@
 {
-  "agi-push": "missing",
-  "agi-sync": "missing",
-  "agi-run": "missing",
-  "agi-status": "missing",
-  "agi-auto": "missing"
+  "agi-push": "installed",
+  "agi-sync": "Restored session: Sat Oct 11 13:08:37 IST 2025
+installed",
+  "agi-run": "Restored session: Sat Oct 11 13:08:37 IST 2025
+installed",
+  "agi-status": "Restored session: Sat Oct 11 13:08:37 IST 2025
+installed",
+  "agi-auto": "Restored session: Sat Oct 11 13:08:37 IST 2025
+installed"
 }
