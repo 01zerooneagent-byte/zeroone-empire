@@ -41,3 +41,18 @@ Hello
 ### 🧩 October 11, 2025 — 18:08:20
 ⚠️  Error executing Push & Run Latest (agi-push).
 
+### 🧩 October 11, 2025 — 18:11:54
+❌ Command agi-push not found.
+
+### 🧩 October 11, 2025 — 18:11:56
+❌ Command agi-sync not found.
+
+### 🧩 October 11, 2025 — 18:11:58
+❌ Command agi-run not found.
+
+### 🧩 October 11, 2025 — 18:12:03
+❌ Command agi-status not found.
+
+### 🧩 October 11, 2025 — 18:12:06
+❌ Command agi-auto not found.
+
