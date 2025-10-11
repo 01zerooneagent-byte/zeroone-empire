@@ -4,3 +4,18 @@
 [1;32m✅ Connected to Pi: agi-core[0m
 [1;34m⬆️  Syncing Mac → Pi...[0m
 [2025-10-11 15:08:00] ZeroOne Sync completed successfully.
+[2025-10-11 15:11:40] ZeroOne Sync completed successfully.
+[2025-10-11 15:15:22] ZeroOne Sync completed successfully.
+[2025-10-11 15:18:57] ZeroOne Sync completed successfully.
+
+[1;34m🔁 [ZeroOne-Sync] Initiating state synchronization...[0m
+[1;32m✅ Connected to Pi: agi-core[0m
+[1;34m⬆️  Syncing Mac → Pi...[0m
+[1;32m   ✅ Mac → Pi sync complete.[0m
+[1;34m⬇️  Syncing Pi → Mac...[0m
+[1;32m   ✅ Pi → Mac sync complete.[0m
+[2025-10-11 15:19:00] ZeroOne Sync completed successfully.
+
+[1;32m✅ [ZeroOne-Sync] Operation completed successfully![0m
+🕒 Last sync: 2025-10-11 15:19:00
+📁 Synced state directory: /Users/dm/ZeroOne/state

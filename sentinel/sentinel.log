@@ -1,0 +1,102 @@
+Timestamp: 2025-10-11 15:11:37
+Pi Connection: OK (agi-core)
+State Match: FALSE → Triggering sync
+
+[1;34m🔁 [ZeroOne-Sync] Initiating state synchronization...[0m
+[1;32m✅ Connected to Pi: agi-core[0m
+[1;34m⬆️  Syncing Mac → Pi...[0m
+[1;32m   ✅ Mac → Pi sync complete.[0m
+[1;34m⬇️  Syncing Pi → Mac...[0m
+[1;32m   ✅ Pi → Mac sync complete.[0m
+
+[1;32m✅ [ZeroOne-Sync] Operation completed successfully![0m
+🕒 Last sync: 2025-10-11 15:11:40
+📁 Synced state directory: /Users/dm/ZeroOne/state
+ZeroOne-State: Missing
+Cycle Complete: 2025-10-11 15:11:37
+--------------------------------------
+Timestamp: 2025-10-11 15:15:18
+Pi Connection: OK (agi-core)
+State Match: FALSE → Triggering sync
+
+[1;34m🔁 [ZeroOne-Sync] Initiating state synchronization...[0m
+[1;32m✅ Connected to Pi: agi-core[0m
+[1;34m⬆️  Syncing Mac → Pi...[0m
+[1;32m   ✅ Mac → Pi sync complete.[0m
+[1;34m⬇️  Syncing Pi → Mac...[0m
+[1;32m   ✅ Pi → Mac sync complete.[0m
+
+[1;32m✅ [ZeroOne-Sync] Operation completed successfully![0m
+🕒 Last sync: 2025-10-11 15:15:22
+📁 Synced state directory: /Users/dm/ZeroOne/state
+ZeroOne-State: Missing
+Cycle Complete: 2025-10-11 15:15:18
+--------------------------------------
+Timestamp: 2025-10-11 15:18:56
+Pi Connection: OK (agi-core)
+State Match: FALSE → Triggering sync
+
+[1;34m🔁 [ZeroOne-Sync] Initiating state synchronization...[0m
+[1;32m✅ Connected to Pi: agi-core[0m
+[1;34m⬆️  Syncing Mac → Pi...[0m
+[1;32m   ✅ Mac → Pi sync complete.[0m
+[1;34m⬇️  Syncing Pi → Mac...[0m
+[1;32m   ✅ Pi → Mac sync complete.[0m
+
+[1;32m✅ [ZeroOne-Sync] Operation completed successfully![0m
+🕒 Last sync: 2025-10-11 15:18:57
+📁 Synced state directory: /Users/dm/ZeroOne/state
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+📡 Checking Pi connection...
+✅ Pi: Connected (agi-core)
+⏱  Uptime: up 7 hours, 59 minutes
+💾 RAM: 580MB used / 8059MB total (7.2%)
+
+[1;34m🧠 ZeroOne System Summary[0m
+──────────────────────────────────────
+🕒 Last Action: No actions recorded yet.
+📊 Local Logs: 2 | Pi Logs: 2
+⚙️  Modules Installed:
+   • agi-push   → Restored session: Sat Oct 11 15:07:58 IST 2025
+installed
+   • agi-sync   → Restored session: Sat Oct 11 15:18:58 IST 2025
+installed
+   • agi-run    → Restored session: Sat Oct 11 15:18:58 IST 2025
+installed
+   • agi-status → Restored session: Sat Oct 11 15:18:58 IST 2025
+installed
+   • agi-auto   → Restored session: Sat Oct 11 15:18:58 IST 2025
+installed
+📡 Pi: Connected (agi-core)
+──────────────────────────────────────
+[1;32m✅ State files updated in:[0m /Users/dm/ZeroOne/state
+
+🔁 Auto-syncing ZeroOne state with Pi...
+✅ Auto-sync complete (Mac ↔ Pi).
+Cycle Complete: 2025-10-11 15:18:56
+--------------------------------------
