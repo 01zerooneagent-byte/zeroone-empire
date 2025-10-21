@@ -1,0 +1,27 @@
+name: Smavg Update
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: |
+          cd smavg
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python scripts/update.py
+      - name: Commit updated state
+        run: |
+          git config user.name "smavg-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add smavg/data/state.json smavg/data/metrics.json
+          git commit -m "chore(state): auto-update" -m "Smavg 🐲 AGI Bar update" || true
+          git push

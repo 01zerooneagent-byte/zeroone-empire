@@ -1,0 +1,8 @@
+{
+  "trust_weights": { "measured": 1.0, "secondary": 0.5, "anecdotal": 0.0 },
+  "domain_weights": {
+    "K": 0.10, "RW": 0.10, "M": 0.10, "R": 0.10, "WM": 0.10,
+    "MS": 0.10, "MR": 0.10, "V": 0.10, "A": 0.10, "S": 0.10
+  },
+  "time_bar": { "mode": "median_date", "lower_bound_year": 2020, "median_year": 2034 }
+}

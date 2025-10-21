@@ -1,0 +1,16 @@
+{
+  "as_of": "2025-10-21T10:35:00+05:30",
+  "track": "pure_model",
+  "metrics": [
+    { "domain": "K",  "name": "PIQA", "score": 0.90, "trust": "measured",  "source": "piqa-leaderboard" },
+    { "domain": "RW", "name": "SQuAD2", "score": 0.95, "trust": "measured", "source": "squad2-leaderboard" },
+    { "domain": "M",  "name": "GSM8K", "score": 0.96, "trust": "measured",  "source": "gsm8k-leaderboard" },
+    { "domain": "R",  "name": "ARC-AGI", "score": 0.757, "trust": "measured", "source": "arc-agi-pub" },
+    { "domain": "WM", "name": "Michelangelo-short", "score": 0.60, "trust": "secondary", "source": "paper-summary" },
+    { "domain": "MS", "name": "AssocMemory48h", "score": 0.00, "trust": "measured", "source": "hendrycks-2025" },
+    { "domain": "MR", "name": "Hallucinations_inv", "score": 0.95, "trust": "secondary", "source": "eval-blog" },
+    { "domain": "V",  "name": "Perception", "score": 0.40, "trust": "secondary", "source": "model-card" },
+    { "domain": "A",  "name": "ASR", "score": 0.80, "trust": "secondary", "source": "model-card" },
+    { "domain": "S",  "name": "NumFacility", "score": 0.90, "trust": "secondary", "source": "internal-tests" }
+  ]
+}
