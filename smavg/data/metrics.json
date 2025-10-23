@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-10-23T08:49:59.722542Z",
+  "as_of": "2025-10-23T08:52:17.746259Z",
   "track": "pure_model",
   "metrics": [
     {
@@ -8,13 +8,6 @@
       "score": 0.6131925402138924,
       "trust": "measured",
       "source": "hf-gsm8k-live-20251023"
-    },
-    {
-      "domain": "WM",
-      "name": "GitHub-AGI-Activity",
-      "score": 0.31151,
-      "trust": "measured",
-      "source": "github-live-20251023"
     },
     {
       "domain": "K",
