@@ -1,11 +1,11 @@
 {
-  "as_of": "2025-12-02T09:24:07.165771Z",
+  "as_of": "2025-12-02T09:45:36.351511Z",
   "track": "pure_model",
   "metrics": [
     {
       "domain": "M",
       "name": "GSM8K-Ecosystem",
-      "score": 0.620671662155933,
+      "score": 0.6207536045197605,
       "trust": "measured",
       "source": "hf-gsm8k-live-20251202"
     },
