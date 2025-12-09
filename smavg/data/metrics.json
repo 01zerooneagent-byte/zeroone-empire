@@ -1,5 +1,5 @@
 {
-  "as_of": "2025-12-09T07:42:27.603145Z",
+  "as_of": "2025-12-09T08:18:26.273528Z",
   "track": "pure_model",
   "metrics": [
     {
@@ -19,7 +19,7 @@
     {
       "domain": "K",
       "name": "MMLU-Ecosystem",
-      "score": 0.5072270463368549,
+      "score": 0.5087181832745539,
       "trust": "measured",
       "source": "hf-mmlu-live-20251209"
     }
