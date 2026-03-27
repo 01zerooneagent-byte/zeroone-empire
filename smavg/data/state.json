@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-03-27T21:31:25.109924Z",
+  "as_of": "2026-03-27T21:54:59.192838Z",
   "track": "pure_model",
   "domain_means": {
     "M": 0.6236302826905278,
@@ -12,5 +12,5 @@
     "metrics_total": 3,
     "metrics_counted": 3
   },
-  "commit": "01ef6d0"
+  "commit": "7eff1d2"
 }
