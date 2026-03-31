@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-03-31T15:44:50.986198Z",
+  "as_of": "2026-03-31T16:48:49.390118Z",
   "track": "pure_model",
   "domain_means": {
     "M": 0.6167839528575032,
-    "WM": 0.32183,
+    "WM": 0.32184,
     "K": 0.4884915051945871
   },
   "agi_percent": 14.3,
@@ -12,5 +12,5 @@
     "metrics_total": 3,
     "metrics_counted": 3
   },
-  "commit": "cfbcaca"
+  "commit": "2d7a31d"
 }
