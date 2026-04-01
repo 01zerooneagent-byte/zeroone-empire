@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-04-01T05:10:45.302933Z",
+  "as_of": "2026-04-01T06:11:03.042178Z",
   "track": "pure_model",
   "domain_means": {
     "M": 0.6167839528575032,
-    "WM": 0.32177,
+    "WM": 0.32189,
     "K": 0.4884915051945871
   },
   "agi_percent": 14.3,
@@ -12,5 +12,5 @@
     "metrics_total": 3,
     "metrics_counted": 3
   },
-  "commit": "167b515"
+  "commit": "d3968eb"
 }
