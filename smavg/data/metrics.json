@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-10T06:09:20.563996Z",
+  "as_of": "2026-05-10T07:56:03.366916Z",
   "track": "pure_model",
   "metrics": [
     {
@@ -12,14 +12,14 @@
     {
       "domain": "K",
       "name": "MMLU-Ecosystem",
-      "score": 0.4863383894641467,
+      "score": 0.48983662940811107,
       "trust": "measured",
       "source": "hf-mmlu-live-20260510"
     },
     {
       "domain": "M",
       "name": "GSM8K-Ecosystem",
-      "score": 0.6469924952232667,
+      "score": 0.646954489229403,
       "trust": "measured",
       "source": "hf-gsm8k-live-20260510"
     }
