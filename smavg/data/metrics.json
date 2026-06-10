@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-06-10T06:48:20.699723Z",
+  "as_of": "2026-06-10T07:53:02.895334Z",
   "track": "pure_model",
   "metrics": [
     {
       "domain": "K",
       "name": "MMLU-Ecosystem",
-      "score": 0.47500554294829483,
+      "score": 0.47112042002816534,
       "trust": "measured",
       "source": "hf-mmlu-live-20260610"
     },
     {
       "domain": "WM",
       "name": "GitHub-AGI-Activity",
-      "score": 0.32524,
+      "score": 0.32525,
       "trust": "measured",
       "source": "github-live-20260610"
     },
