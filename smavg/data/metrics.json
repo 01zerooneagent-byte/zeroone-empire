@@ -1,14 +1,7 @@
 {
-  "as_of": "2026-06-11T11:52:18.470260Z",
+  "as_of": "2026-06-11T15:03:42.049542Z",
   "track": "pure_model",
   "metrics": [
-    {
-      "domain": "WM",
-      "name": "GitHub-AGI-Activity",
-      "score": 0.32535,
-      "trust": "measured",
-      "source": "github-live-20260611"
-    },
     {
       "domain": "M",
       "name": "GSM8K-Ecosystem",
