@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-06-12T06:38:53.817163Z",
+  "as_of": "2026-06-12T10:45:17.897162Z",
   "track": "pure_model",
   "domain_means": {
-    "WM": 0.32537,
-    "M": 0.6495128338682367,
-    "K": 0.4715506288051708
+    "WM": 0.32538,
+    "M": 0.6497966688816376,
+    "K": 0.46398392987878917
   },
-  "agi_percent": 14.5,
+  "agi_percent": 14.4,
   "time_percent": 42.9,
   "counts": {
     "metrics_total": 3,
     "metrics_counted": 3
   },
-  "commit": "8f01d8c"
+  "commit": "32980f1"
 }
