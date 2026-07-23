@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-07-22T23:54:20.404440Z",
+  "as_of": "2026-07-23T00:08:29.824536Z",
   "track": "pure_model",
   "metrics": [
     {
@@ -7,21 +7,21 @@
       "name": "GitHub-AGI-Activity",
       "score": 0.32698,
       "trust": "measured",
-      "source": "github-live-20260722"
+      "source": "github-live-20260723"
     },
     {
       "domain": "M",
       "name": "GSM8K-Ecosystem",
       "score": 0.599907729287546,
       "trust": "measured",
-      "source": "hf-gsm8k-live-20260722"
+      "source": "hf-gsm8k-live-20260723"
     },
     {
       "domain": "K",
       "name": "MMLU-Ecosystem",
       "score": 0.4325827036375957,
       "trust": "measured",
-      "source": "hf-mmlu-live-20260722"
+      "source": "hf-mmlu-live-20260723"
     }
   ]
 }
