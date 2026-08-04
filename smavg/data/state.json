@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-08-04T20:51:08.486477Z",
+  "as_of": "2026-08-04T22:03:35.552422Z",
   "track": "pure_model",
   "domain_means": {
     "K": 0.44410699592602093,
-    "WM": 0.32746,
+    "WM": 0.10285,
     "M": 0.5608834581063312
   },
-  "agi_percent": 13.3,
+  "agi_percent": 11.1,
   "time_percent": 42.9,
   "counts": {
     "metrics_total": 3,
     "metrics_counted": 3
   },
-  "commit": "cc31887"
+  "commit": "cace25e"
 }
