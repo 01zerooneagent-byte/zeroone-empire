@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-09-04T09:46:46.690294Z",
+  "as_of": "2026-09-04T09:52:17.257524Z",
   "track": "pure_model",
   "metrics": [
     {
-      "domain": "WM",
-      "name": "GitHub-AGI-Activity",
-      "score": 0.32819,
+      "domain": "K",
+      "name": "MMLU-Ecosystem",
+      "score": 0.4459630569456809,
       "trust": "measured",
-      "source": "github-live-20260904"
+      "source": "hf-mmlu-live-20260904"
     },
     {
       "domain": "M",
@@ -17,11 +17,11 @@
       "source": "hf-gsm8k-live-20260904"
     },
     {
-      "domain": "K",
-      "name": "MMLU-Ecosystem",
-      "score": 0.4459630569456809,
+      "domain": "WM",
+      "name": "GitHub-AGI-Activity",
+      "score": 0.32819,
       "trust": "measured",
-      "source": "hf-mmlu-live-20260904"
+      "source": "github-live-20260904"
     }
   ]
 }
