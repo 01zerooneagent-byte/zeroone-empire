@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T01:17:37.280978Z",
+  "as_of": "2026-10-15T06:02:09.971320Z",
   "track": "pure_model",
   "metrics": [
     {
@@ -19,7 +19,7 @@
     {
       "domain": "WM",
       "name": "GitHub-AGI-Activity",
-      "score": 0.32917,
+      "score": 0.32918,
       "trust": "measured",
       "source": "github-live-20261015"
     }
