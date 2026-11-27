@@ -1,7 +1,14 @@
 {
-  "as_of": "2026-11-27T22:48:26.156373Z",
+  "as_of": "2026-11-27T23:12:13.955029Z",
   "track": "pure_model",
   "metrics": [
+    {
+      "domain": "M",
+      "name": "GSM8K-Ecosystem",
+      "score": 0.5397997604523195,
+      "trust": "measured",
+      "source": "hf-gsm8k-live-20261127"
+    },
     {
       "domain": "WM",
       "name": "GitHub-AGI-Activity",
@@ -15,13 +22,6 @@
       "score": 0.4305331289947705,
       "trust": "measured",
       "source": "hf-mmlu-live-20261127"
-    },
-    {
-      "domain": "M",
-      "name": "GSM8K-Ecosystem",
-      "score": 0.5397997604523195,
-      "trust": "measured",
-      "source": "hf-gsm8k-live-20261127"
     }
   ]
 }
